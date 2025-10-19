@@ -1,0 +1,5 @@
+{
+  "name": "Diabetic Retinopathy Detector",
+  "description": "An AI-powered web application to analyze retina scan images for signs of Diabetic Retinopathy using the Gemini API. Users can upload an image, receive a preliminary analysis, and download a report.",
+  "requestFramePermissions": []
+}
